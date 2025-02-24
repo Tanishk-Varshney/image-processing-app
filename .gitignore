@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+output.log
+
+# Temporary files
+tmp/
+temp/
+uploads/
+downloads/
+
+# Database files
+*.sqlite
+*.db
+mongodb.log
+
+# VS Code settings (optional)
+.vscode/
+
+# MacOS & Linux system files
+.DS_Store
+Thumbs.db
+
+# Build & Output files
+dist/
+build/
+output/
